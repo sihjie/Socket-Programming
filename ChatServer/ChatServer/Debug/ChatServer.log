@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\JIE_0305\Desktop\計網\Socket\ChatServer\ChatServer\main.cpp(11,13): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\JIE_0305\Desktop\計網\Socket\ChatServer\ChatServer\main.cpp(84,24): warning C4018: '<': signed/unsigned 不相符
+  ChatServer.vcxproj -> C:\Users\JIE_0305\Desktop\計網\Socket\ChatServer\Debug\ChatServer.exe
